@@ -11,7 +11,7 @@ printf("%s",str1);
 
 /*
 runs:
-Hello world
+hello world
 */
     return 0;
 }

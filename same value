@@ -8,3 +8,5 @@ printf("z=%d, y=%d, x=%d",z,y,x);
 
     return 0;
 }
+
+//z=50, y=50, x=50

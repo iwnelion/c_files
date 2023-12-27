@@ -7,5 +7,6 @@ return 0;
 }
 
 /*
-appends new data to a file
+"appends new data to a file"
+it creates a new file
 */

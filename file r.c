@@ -15,4 +15,6 @@ fgets(string,100,fptr);
 return 0;
 }
 
-//read an already existing file
+/* read an already existing file.
+fgets() function reads only the first line of the file.
+to read every line, add a while loop.*/

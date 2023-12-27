@@ -14,6 +14,9 @@ while(fgets(string,100,fptr)) {
     printf("%s",string);
 }
 
+//close:
+fclose(fptr);
+
 return 0;
 }
 

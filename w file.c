@@ -8,6 +8,6 @@ fptr=fopen("hi.txt","w");
 fprintf(fptr,"text!");
 //close:
 fclose(fptr);
-
+//write in a file
 return 0;
 }

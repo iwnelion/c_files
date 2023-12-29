@@ -12,7 +12,7 @@ int main(){
     struct str s1 = {10,'a',"string text"};
     
     //print values
-    printf("%d %c %s", s1.num,s1.letter,s1.astring);
+    printf("%d, %c, %s", s1.num,s1.letter,s1.astring);
 return 0;
 }
 

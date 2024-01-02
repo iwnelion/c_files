@@ -7,6 +7,6 @@ int main()
 
     printf("the value of a is %d \n",a);
     printf("the value of a is %d (from dereference of pointer)",*poi);
-//both print 1
+//both print the value of a (1)
     return 0;
 }
